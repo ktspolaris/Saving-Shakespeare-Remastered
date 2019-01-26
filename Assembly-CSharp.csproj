@@ -59,6 +59,8 @@
      <Compile Include="Assets\Scenes\Assets\Scripts\Books.cs" />
      <Compile Include="Assets\Scenes\Assets\Scripts\BoxKeyCollision.cs" />
      <Compile Include="Assets\Scenes\Assets\Scripts\ChangeTime.cs" />
+     <Compile Include="Assets\Scenes\Assets\Scripts\CipherDisk.cs" />
+     <Compile Include="Assets\Scenes\Assets\Scripts\CipherPuzzle.cs" />
      <Compile Include="Assets\Scenes\Assets\Scripts\ClickableObject.cs" />
      <Compile Include="Assets\Scenes\Assets\Scripts\ClosePicture.cs" />
      <Compile Include="Assets\Scenes\Assets\Scripts\Constellation.cs" />
@@ -71,6 +73,7 @@
      <Compile Include="Assets\Scenes\Assets\Scripts\StartGame.cs" />
      <Compile Include="Assets\Scenes\Assets\Scripts\Test.cs" />
      <Compile Include="Assets\Scenes\Assets\Scripts\TimeMachine.cs" />
+     <Compile Include="Assets\Scenes\Assets\Scripts\Unlock.cs" />
      <Compile Include="Assets\Scenes\Assets\Scripts\WindowKeyCollsion.cs" />
      <Compile Include="Assets\Scenes\Assets\Scripts\WrongStar.cs" />
  <Reference Include="Unity.TextMeshPro.Editor">
